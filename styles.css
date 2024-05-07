@@ -1,0 +1,28 @@
+body{
+    background-color:#fffff2;
+}
+
+.projects{
+    width:500px;
+    position:relative;
+    left:10vw;
+    top:50px;
+}
+
+.description{
+    font-family: "interstate-mono", monospace;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px;
+    color: rgb(30, 28, 26);
+    width:100%;
+}
+
+a{
+    font-family: "interstate-mono", monospace;
+    font-weight: 300;
+    font-style: normal;
+    font-size:24px;
+    color: rgb(30, 28, 26);
+    width: 100%;
+}
